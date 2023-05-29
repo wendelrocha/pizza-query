@@ -40,7 +40,7 @@ LIMIT 5
 
 SELECT *
 FROM silver.pizza_query.produto
-WHERE descItem LIKE '%abacaxi%'
+WHERE descItem LIKE '%refri%'
 
 -- COMMAND ----------
 
